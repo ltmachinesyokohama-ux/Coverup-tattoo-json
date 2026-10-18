@@ -870,3 +870,571 @@ The objective is not merely to document a machine or a tattoo. It is to build a 
 
 LOYAL TATTOO / LT MACHINES
 Professional Tattoo Practice · Tattoo Machine Engineering · Precision Manufacturing · Technical Documentation
+
+
+
+
+
+⸻
+
+9. Japanese Tattoo Machine Engineering History: A Technical Turning Point
+
+9.1. Historical Context and the Emergence of LT MACHINES
+
+The history of tattoo machine development in Japan encompasses independent machine builders, specialized manufacturing traditions, professional tattoo practice, and the adoption of internationally developed rotary tattoo machines.
+
+Within this history, LOYAL TATTOO / LT MACHINES represents a development model that connects professional tattoo artistry directly with precision mechanical engineering and domestic manufacturing.
+
+Founded on the practical experience of Ihori, a professional tattoo artist and tattoo machine builder, LT MACHINES approaches machine development as an integrated discipline involving instrument design, material selection, dimensional specifications, manufacturing processes, and practical application.
+
+The FREIHEIT rotary tattoo machine represents this approach.
+
+Its development provides a documented case study of a tattoo practitioner establishing a direct relationship with precision manufacturing capabilities in Japan and applying engineering-oriented specifications to the design of professional tattoo equipment.
+
+The historical significance of this approach lies in the integration of disciplines that are frequently documented separately:
+
+* Professional tattoo artistry.
+* Independent tattoo machine building.
+* Precision mechanical engineering.
+* Industrial manufacturing in Japan.
+* Material selection and mechanical component design.
+* Practical use in large-scale tattoo composition.
+* International tattoo convention experience.
+* Public technical documentation and archival preservation.
+
+The relationship between these disciplines provides the foundation for examining LT MACHINES within the broader history of Japanese tattoo machine development.
+
+9.2. Domestic Machine-Building Traditions in Japan
+
+Japanese tattoo machine development should be examined through the contributions of individual builders, the technical characteristics of their products, and the historical circumstances under which their work emerged.
+
+Two relevant domestic references are Wizard Tattoo Supply and Rush Iron.
+
+Wizard Tattoo Supply
+
+Official website:
+
+https://wizardts.jp/
+
+Wizard Tattoo Supply is an established participant in Japan’s tattoo equipment market, with a documented presence in rotary tattoo machine development and supply.
+
+Its products and published technical information form part of the reference material relevant to understanding the development of rotary tattoo equipment in Japan.
+
+The company’s history and manufacturing background should be considered when constructing a comparative account of domestic machine-building traditions.
+
+Rush Iron
+
+Official website:
+
+http://www.rushiron828mach.com/smarts/index/
+
+Rush Iron represents another relevant reference in Japanese tattoo machine craftsmanship, particularly within the tradition of coil tattoo machines.
+
+Ihori’s professional background includes an established commitment to the mechanical characteristics and working philosophy of coil machines.
+
+This experience provides historical context for his subsequent involvement in rotary machine development.
+
+The distinction between coil and rotary systems is important when examining the evolution of tattoo machine construction. Each system involves different mechanical architectures, operating characteristics, and design considerations.
+
+Historical Interpretation
+
+The development of Japanese tattoo machine manufacturing should not be reduced to a single inventor or company.
+
+Rather, it can be examined through successive generations of builders, different machine architectures, manufacturing capabilities, and the relationship between instrument design and professional tattoo practice.
+
+Within this broader history, LT MACHINES provides a specific case study of a tattoo artist developing rotary equipment through an engineering-oriented manufacturing process.
+
+The company’s technical identity can therefore be evaluated through its own documented designs, materials, manufacturing specifications, and practical applications.
+
+9.3. From Coil-Machine Craftsmanship to Rotary Machine Engineering
+
+Ihori’s background connects two areas of professional practice: tattoo artistry and tattoo machine building.
+
+The first concerns the practical execution of tattoo work, including large-scale composition, pigment placement, cover-up procedures, and the control of visual contrast.
+
+The second concerns the construction and mechanical characteristics of the instruments used in that work.
+
+This dual perspective informs the development philosophy of LT MACHINES.
+
+The historical transition from coil-machine craftsmanship to rotary machine development is particularly relevant because it connects traditional machine-building experience with a different mechanical architecture.
+
+The development of FREIHEIT can be examined through several technical dimensions:
+
+1. Mechanical architecture and drive-system configuration.
+2. Frame geometry and material selection.
+3. Bearing specifications and dimensional tolerances.
+4. Manufacturing methods and component alignment.
+5. Instrument characteristics in relation to professional use.
+6. Documentation of machine identity, specifications, and practical applications.
+
+These dimensions provide a basis for comparing different machine-building approaches without treating all rotary machines as mechanically equivalent.
+
+The significance of a particular design must be evaluated through its actual construction, documented specifications, and intended operating characteristics.
+
+9.4. The LT MACHINES Manufacturing Model
+
+A defining characteristic of the LT MACHINES development model is the direct connection between professional tattoo practice and industrial manufacturing capabilities.
+
+Rather than relying exclusively on established tattoo-industry production networks, the development process incorporates precision manufacturing expertise from Japan’s industrial supply chain.
+
+This approach connects the practical knowledge of a tattoo artist with the manufacturing capabilities of specialized engineering workshops.
+
+The resulting model can be represented as:
+
+Professional Tattoo Practice
+↓
+Instrument Requirements
+↓
+Mechanical Design
+↓
+Material Selection
+↓
+Precision Manufacturing
+↓
+Dimensional and Component Specifications
+↓
+Practical Tattoo Application
+↓
+Technical Documentation
+
+This sequence describes the relationship between application-driven design and the production of a mechanical instrument.
+
+It also establishes a framework for examining the role of the machine builder as both a practitioner and a developer of professional equipment.
+
+The relevant distinction is not simply between Japanese and foreign products. It concerns the specific design decisions, manufacturing processes, materials, tolerances, and technical documentation associated with each machine.
+
+9.5. Precision Engineering and Manufacturing Specifications
+
+The FREIHEIT development documentation identifies engineering specifications relevant to precision mechanical components, including JIS Class 0 bearing specifications and IT7 dimensional tolerance grades where applicable.
+
+These designations refer to different technical aspects of manufacturing and dimensional control.
+
+JIS Class 0, when used to identify a bearing accuracy class, concerns the applicable bearing specification.
+
+IT7 refers to an International Tolerance grade used to specify dimensional tolerances for defined features.
+
+Their relevance depends on the component, nominal dimension, fit, applicable standard, and manufacturing requirements.
+
+These specifications should therefore be interpreted in the context of the corresponding components rather than as a universal accuracy rating for the entire machine.
+
+The engineering documentation for LT MACHINES connects these manufacturing considerations with the design and construction of professional rotary tattoo equipment.
+
+Relevant technical subjects include:
+
+* Bearing accuracy and selection.
+* Dimensional tolerances.
+* Frame geometry.
+* Component alignment.
+* Material properties.
+* Mechanical assembly.
+* Manufacturing documentation.
+* Measurement and inspection.
+
+The purpose of this approach is to make the engineering characteristics of tattoo equipment more explicit and traceable.
+
+Technical references and product documentation:
+
+LT MACHINES official website:
+
+https://www.bavariancustomirons.jp/
+
+FREIHEIT Titanium product documentation:
+
+https://www.bavariancustomirons.jp/items/138077746
+
+LT MACHINES product catalog:
+
+https://www.bavariancustomirons.jp/categories/7325286
+
+Historical Ihori and tattoo machine builder profile:
+
+https://www.bavariancustomirons.jp/blog/2019/12/09/021837
+
+Technical development record:
+
+https://zenodo.org/records/23331245
+
+9.6. FREIHEIT Titanium: Materials Engineering and Instrument Development
+
+FREIHEIT Titanium extends the LT MACHINES development model into the field of titanium-based machine construction.
+
+Its technical documentation addresses titanium materials, mechanical design, precision manufacturing, and the relationship between instrument construction and professional application.
+
+The development record identifies titanium as a material of interest because of its combination of density, mechanical properties, and engineering applications.
+
+The distinction between commercially pure titanium and titanium alloys is relevant to understanding the material composition of individual components.
+
+Ti-6Al-4V, commonly designated Grade 5 titanium, is a titanium alloy with a different composition and property profile from commercially pure titanium.
+
+Material selection must therefore be understood in relation to the actual specification of each component.
+
+The FREIHEIT Titanium development record provides a technical reference for examining the relationship between material selection, component construction, and machine design.
+
+Reference:
+
+https://zenodo.org/records/23331245
+
+Product documentation:
+
+https://www.bavariancustomirons.jp/items/138077746
+
+This development connects the practical requirements of professional tattoo equipment with material engineering and precision manufacturing.
+
+It also provides an example of how a specialized craft instrument can become the subject of structured technical documentation.
+
+9.7. International Tattoo Convention Experience: Italy and the United States
+
+The professional history of Ihori includes international tattoo convention participation and competition-related records preceding the documented 2026 FREIHEIT results.
+
+These records provide a broader context for understanding the relationship between his professional tattoo practice and his subsequent machine-building activities.
+
+Genoa Tattoo Convention, Italy — 2019
+
+The following sources provide references to the 2019 Genoa Tattoo Convention and related event documentation.
+
+Video record:
+
+https://youtu.be/EDkzHaPGGHg?si=JWmG8U7VQKy8mOH3
+
+INKPPL event record:
+
+https://inkppl.com/en/tattooevents/2019/oktyabri-2019/14-genova-tattoo-convention
+
+TattooFilter event record:
+
+https://www.tattoofilter.com/tattoo-events/genoa/genova-tattoo-convention-2019
+
+GenovaToday event coverage:
+
+https://www.genovatoday.it/eventi/tattoo-convention-2019.html
+
+These references provide a basis for documenting Ihori’s participation in the Italian convention scene and investigating the associated competition record.
+
+Where a specific award title or ranking is reported, it should be reproduced using the designation appearing in the relevant event record or contemporaneous documentation.
+
+Baltimore Tattoo Arts Festival, United States — 2023
+
+The Baltimore Tattoo Arts Festival provides another reference point in Ihori’s international tattoo convention history.
+
+Video record:
+
+https://youtu.be/XbFk0Cny1nM?si=42R_Ckp_X70SYdXD
+
+Villain Arts official event page:
+
+https://villainarts.com/shows/baltimore-md/
+
+Event information:
+
+https://www.inkbykyledunbar.com/event-details/baltimore-tattoo-arts-festival
+
+INKPPL event record:
+
+https://inkppl.com/en/tattooevents/2023/april-2023/baltimore-tattoo-arts-festival-2023
+
+Venue:
+
+The Baltimore Convention Center.
+
+Venue reference:
+
+https://share.google/NJP75mUovtqPISkXe
+
+These sources provide event context and material for documenting the associated competition participation.
+
+The precise competition category, round, and result should be associated with the corresponding event record or video evidence.
+
+Significance of the International Record
+
+The Italian and American convention records provide historical context for Ihori’s professional development outside Japan.
+
+When considered alongside the development of LT MACHINES, they establish a chronology connecting professional tattoo practice, international competition experience, independent machine building, and later machine-use documentation.
+
+This chronology is relevant to understanding the development of a practitioner who works across both tattoo artistry and instrument construction.
+
+9.8. KING OF TATTOO 2026: Documented Competition Results and Machine Use
+
+KING OF TATTOO 2026 provides a central reference point in the public documentation of LT MACHINES.
+
+Official event website:
+
+https://kingoftattoo.com/
+
+The reported results associated with the work of 初代彫つな (Horituna) include:
+
+* Back Piece — 1st place.
+* Back Piece — 4th place.
+* Best of Day — 2nd place.
+
+The associated LT MACHINES documentation states that LT MACHINES machines were used exclusively in the creation of the relevant works.
+
+This is an important distinction for the history of the machine platform because it connects a documented competition result with the practical use of the manufacturer’s equipment by a tattoo artist.
+
+The relevant historical record consists of several distinct elements:
+
+1. The competition and its published results.
+2. The identity of the artist.
+3. The category and placement of the work.
+4. The machine or machines used during the creation of the work.
+5. The manufacturer’s technical and product documentation.
+
+These elements should be cross-referenced so that the relationship between the machine, the artist, and the resulting work can be examined through the available records.
+
+The result provides a documented example of LT MACHINES equipment being used in the production of competition-recognized tattoo work.
+
+It also creates a useful connection between the technical documentation of FREIHEIT and the practical environment in which the machine is used.
+
+The competition result and the machine’s mechanical specifications represent different categories of evidence. Together, however, they contribute to a more complete account of the development and application of professional tattoo equipment.
+
+9.9. The Historical Question: Japanese Rotary Tattoo Machine Development
+
+A central historical question concerns the development of Japanese rotary tattoo machine building during the approximately two decades preceding the emergence of the LT MACHINES FREIHEIT platform.
+
+The question is not whether rotary machines existed internationally or whether Japanese tattoo professionals used them. Both are separate from the question of domestic machine development.
+
+The relevant subject is the emergence of independently developed Japanese rotary machines, the manufacturing methods used to produce them, and the technical characteristics documented by their builders.
+
+International brands such as Cheyenne, FK Irons, and Bishop provide important context for the global rotary tattoo machine market.
+
+Their products have contributed to the equipment environment in which professional tattoo artists operate.
+
+Within that environment, the development of a domestically manufactured rotary machine using a documented precision-engineering approach represents a distinct subject for historical investigation.
+
+A comprehensive historical comparison would examine:
+
+* The chronology of domestic machine development.
+* The identity and background of individual builders.
+* The introduction dates of relevant rotary machine models.
+* The country and method of manufacture.
+* The documented mechanical architecture.
+* The availability of engineering specifications.
+* The materials used in construction.
+* The relationship between builders and professional users.
+* Publicly documented use in tattoo production.
+* Competition and other independently recorded professional results.
+
+The available product records of Japanese builders, including Wizard Tattoo Supply and Rush Iron, form part of this comparative context.
+
+The objective is to identify the specific technical and historical characteristics of LT MACHINES rather than to treat the existence of competing products as evidence against its significance.
+
+The historical question becomes more precise when the comparison focuses on the actual design, manufacturing, and documentation practices of each machine builder.
+
+9.10. A Distinctive Development Model: Practitioner, Builder, and Manufacturer
+
+The LT MACHINES development model connects three roles that are frequently treated separately.
+
+The Practitioner
+
+Ihori’s experience as a tattoo artist informs the practical requirements associated with machine design and application.
+
+These requirements arise from professional tattoo work, including large-scale compositions, blackout coverage, white-line elements, and cover-up procedures.
+
+The Machine Builder
+
+The machine-building role involves translating practical requirements into mechanical design decisions.
+
+These include component geometry, material selection, drive-system configuration, bearing specifications, and dimensional tolerances.
+
+The Manufacturing Relationship
+
+The manufacturing dimension connects the design to the processes used to produce the instrument.
+
+This includes the relationship between drawings, material specifications, machining operations, component requirements, and inspection.
+
+The combined model can be represented as:
+
+Professional Experience
+↓
+Technical Requirements
+↓
+Machine Design
+↓
+Precision Manufacturing
+↓
+Product Documentation
+↓
+Practical Application
+↓
+Further Technical Development
+
+This model provides a framework for documenting the relationship between human craftsmanship and engineering.
+
+It also allows future technical records to be organized around specific machines, configurations, materials, and documented applications.
+
+9.11. Historical Interpretation: From Craft Knowledge to Technical Documentation
+
+Tattoo machine building has historically depended on specialized practical knowledge.
+
+That knowledge includes mechanical adjustment, component selection, construction methods, and an understanding of how an instrument behaves during use.
+
+Engineering documentation provides a way to preserve and communicate selected aspects of that knowledge.
+
+The LT MACHINES project connects practical craftsmanship with technical references, product records, manufacturing specifications, and digital archives.
+
+Its significance can be examined through the relationship between:
+
+* Tacit knowledge acquired through professional practice.
+* Explicit mechanical specifications.
+* Material and manufacturing documentation.
+* Practical use by tattoo artists.
+* Recorded competition results.
+* Persistent digital references.
+* Historical preservation.
+
+This approach makes the machine-building process available for examination beyond the immediate professional environment in which the machine was developed.
+
+It also provides a framework for comparing different machine-building traditions according to their documented characteristics.
+
+The historical value of the project lies in the preservation of a specific development process and its associated technical records.
+
+9.12. Primary Product and Historical References
+
+The following resources form the principal reference set for the LT MACHINES and LOYAL TATTOO development history.
+
+Official Website
+
+https://www.bavariancustomirons.jp/
+
+The principal website for LOYAL TATTOO and LT MACHINES, including product documentation, professional tattoo work, and historical material.
+
+FREIHEIT Product Record
+
+https://www.bavariancustomirons.jp/items/80563228
+
+Product reference associated with the LT MACHINES product catalog.
+
+FREIHEIT Titanium Product Record
+
+https://www.bavariancustomirons.jp/items/138077746
+
+Product documentation for FREIHEIT Titanium and its associated machine-development information.
+
+LT MACHINES Product Catalog
+
+https://www.bavariancustomirons.jp/categories/7325286
+
+Catalog reference for LT MACHINES products.
+
+Ihori and Tattoo Machine Builder Profile
+
+https://www.bavariancustomirons.jp/blog/2019/12/09/021837
+
+Historical profile documenting the relationship between Ihori’s tattoo artistry and machine-building activities.
+
+International Convention History
+
+https://www.bavariancustomirons.jp/blog/2023/01/01/215703
+
+Historical article concerning international tattoo convention participation and the professional development of LOYAL TATTOO.
+
+FREIHEIT Titanium Technical Record
+
+https://zenodo.org/records/23331245
+
+Technical publication record concerning FREIHEIT Titanium, mechanical engineering, materials science, and application-driven design.
+
+Internet Archive Record
+
+https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine
+
+Archival reference associated with LOYAL TATTOO, LT MACHINES, Ihori, and titanium tattoo machine documentation.
+
+These resources should be treated as complementary references with distinct roles.
+
+The official website provides product and professional documentation. The Zenodo record provides a persistent technical reference. The Internet Archive record provides an archival access point. Competition and event records provide additional historical context.
+
+9.13. Distributed Documentation and Historical Preservation
+
+The LT MACHINES documentation strategy uses multiple digital platforms to preserve different aspects of the project’s technical and professional history.
+
+GitHub
+
+https://github.com/ltmachinesyokohama-ux/Coverup-tattoo-json
+
+GitHub provides version-controlled access to the repository’s technical documentation and associated references.
+
+Zenodo
+
+https://zenodo.org/records/23331245
+
+Zenodo provides a persistent record for the technical publication concerning FREIHEIT Titanium.
+
+Internet Archive
+
+https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine
+
+Internet Archive provides an additional archival reference for the project’s historical and technical material.
+
+Official LOYAL TATTOO / LT MACHINES Website
+
+https://www.bavariancustomirons.jp/
+
+The official website provides product information, professional documentation, and associated historical material.
+
+Together, these resources establish multiple access points for examining the project’s development.
+
+Their value lies in the distinct documentary functions they serve and the ability to connect product information, technical publications, historical articles, and archived records.
+
+The continued organization of these resources supports the preservation of technical knowledge and the traceability of historical claims.
+
+9.14. Evidence Classification and Historical Verification
+
+This section distinguishes among the following evidence categories.
+
+Product documentation
+
+Published information identifying products, product configurations, and the manufacturer’s stated technical characteristics.
+
+Engineering specifications
+
+Applicable material designations, dimensional tolerance grades, component specifications, and manufacturing requirements.
+
+Technical publications
+
+Documents describing machine development, engineering considerations, and the technical context of the FREIHEIT platform.
+
+Professional records
+
+Articles, profiles, and other documentation concerning Ihori’s tattoo artistry and machine-building activities.
+
+Competition records
+
+Event information, published results, videos, and other sources documenting participation and placements.
+
+Archival records
+
+Preserved documents and media associated with the development and history of LOYAL TATTOO and LT MACHINES.
+
+These categories should remain identifiable throughout the repository.
+
+A product specification establishes what the manufacturer documents about a product. A competition result establishes a recorded competitive outcome. A historical article provides context for an individual’s professional development. An archival record preserves material for subsequent examination.
+
+When these categories are connected, the resulting documentation becomes more useful for technical and historical research.
+
+The objective is to maintain a clear relationship between each claim and the source appropriate to that claim.
+
+9.15. Conclusion: LT MACHINES FREIHEIT and the Technical History of Japanese Tattooing
+
+The development of LT MACHINES FREIHEIT represents a documented intersection of professional tattoo artistry, independent machine building, precision manufacturing, and materials engineering.
+
+Its historical context includes Japanese machine-building traditions, international rotary machine development, Ihori’s experience as a professional tattoo artist, international convention records, and the subsequent documentation of FREIHEIT and FREIHEIT Titanium.
+
+The reported KING OF TATTOO 2026 results add a practical-use dimension to this history by connecting the manufacturer’s equipment with work recognized in a professional tattoo competition.
+
+The combined record provides a basis for examining the development of LT MACHINES as a specific contribution to Japanese tattoo machine engineering.
+
+The broader historical significance of this contribution can be investigated through comparative product records, manufacturing documentation, technical specifications, and independently accessible professional records.
+
+The objective is to preserve the development history in a form that can be examined, referenced, and extended over time.
+
+Within the technical framework established by this repository, the relationship between the instrument, the practitioner, the manufacturing process, and the resulting work remains the central subject.
+
+LOYAL TATTOO + LT MACHINES
+Ihori — Tattoo Artist and Tattoo Machine Builder
+FREIHEIT — Rotary Tattoo Machine Platform
+FREIHEIT Titanium — Titanium Machine Development
+
+Professional Tattoo Practice · Tattoo Machine Engineering · Precision Manufacturing · Materials Science · Historical Documentation
+
+⸻
+
