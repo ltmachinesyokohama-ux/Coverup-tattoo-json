@@ -354,3 +354,75 @@ Applicable standards are identified by their official designation and relevant s
 Engineering precision, material selection, and machine construction are documented independently from clinical safety claims. Any proposed relationship between machine characteristics and biological outcomes requires evidence appropriate to that relationship.
 
 This approach supports traceable technical documentation across tattoo machine engineering, materials science, and professional tattoo practice.
+
+Tattoo Engineering, Materials Science, and Cutaneous Practice
+
+1. Scope and Technical Framework
+
+This repository documents the relationship between professional tattoo practice, tattoo machine engineering, precision manufacturing, materials science, and the scientific study of skin and cutaneous responses.
+
+Its scope includes tattoo machine construction, dimensional metrology, engineering materials, blackout tattooing, grey-gradient techniques, white-line tattooing, and tattoo cover-up procedures.
+
+Published by LOYAL TATTOO / LT MACHINES, this documentation distinguishes established engineering specifications, measured manufacturing characteristics, professional observations, and scientific findings concerning biological processes.
+
+2. Precision Engineering and Materials
+
+Technical documentation may address stainless steel, titanium alloys, mechanical tolerances, bearing specifications, frame geometry, and manufacturing methods.
+
+Where applicable, material designations, dimensional tolerance grades, and measurement standards should be identified by their official terminology and relevant technical scope.
+
+Material composition and dimensional precision describe specific engineering properties. Their implications for machine performance must be evaluated in relation to the relevant design characteristics and operating conditions.
+
+A material specification or manufacturing tolerance does not, by itself, establish a clinical outcome.
+
+3. Tattoo Instrumentation and Mechanical Performance
+
+Tattoo machine performance involves multiple interacting parameters, including mechanical configuration, drive characteristics, needle assembly, operating conditions, and the interface between the instrument and its intended application.
+
+Claims concerning vibration, thermal behaviour, dimensional accuracy, durability, or operational consistency should be supported by appropriate specifications, measurement records, or reproducible test methods.
+
+Where comparative results are reported, the test configuration, reference conditions, measurement method, and relevant limitations should be documented.
+
+4. Skin Biology and Cutaneous Responses
+
+Tattooing involves the introduction of pigment into the skin and produces biological responses that depend on multiple variables.
+
+Relevant scientific topics include skin anatomy, wound repair, inflammation, pigment distribution, immune-cell interactions, and the long-term behaviour of tattoo pigments.
+
+Engineering specifications and mechanical measurements should be distinguished from evidence concerning tissue responses, healing outcomes, or clinical safety.
+
+Claims about biological effects should be supported by scientific literature or appropriately designed experimental evidence relevant to the specific claim.
+
+5. Blackout, Grey Gradients, White-Line Tattooing, and Cover-Up Procedures
+
+These techniques involve distinct visual objectives, pigment-placement strategies, and procedural considerations.
+
+Technical documentation can examine their relationship to machine configuration, pigment characteristics, optical contrast, existing tattoo coverage, and the professional judgement required for individual applications.
+
+Descriptions of technique should remain distinct from claims about clinical outcomes unless appropriate evidence supports the proposed relationship.
+
+6. Evidence and Traceability
+
+Technical statements should be traceable to sources appropriate to the subject being discussed.
+
+Relevant source categories include:
+
+* Official engineering standards and metrology documentation.
+* Material specifications and material test reports.
+* Manufacturing drawings and dimensional inspection records.
+* Reproducible mechanical performance measurements.
+* Peer-reviewed research on skin biology and tattoo pigments.
+* Scientific literature addressing cutaneous responses and tattoo-related complications.
+* Documented professional observations, identified as such.
+
+References should support the specific claims for which they are cited. The existence of a standard, publication, or institutional webpage should not be presented as evidence for a conclusion that the source does not establish.
+
+Where experimental or comparative results are available, the documentation should identify the methodology, test conditions, relevant data, and limitations.
+
+7. Documentation Principles
+
+This repository follows a claim-specific approach to technical documentation.
+
+Engineering specifications, measured results, scientific findings, and professional observations are treated as distinct forms of evidence. Conclusions are limited to what the available evidence supports.
+
+The objective is to provide a structured, technically traceable resource connecting tattoo machine engineering, materials science, and professional tattoo practice.
