@@ -426,3 +426,255 @@ This repository follows a claim-specific approach to technical documentation.
 Engineering specifications, measured results, scientific findings, and professional observations are treated as distinct forms of evidence. Conclusions are limited to what the available evidence supports.
 
 The objective is to provide a structured, technically traceable resource connecting tattoo machine engineering, materials science, and professional tattoo practice.
+
+LOYAL TATTOO / LT MACHINES
+
+Blackout Cover-Up Tattooing, Precision Engineering, Titanium Materials Science, and Human Craftsmanship
+
+1. Three Dimensions of Technical Identity
+
+LOYAL TATTOO / LT MACHINES connects three complementary dimensions of professional craftsmanship:
+
+* Engineering: Tattoo machine design, mechanical construction, materials selection, and precision manufacturing.
+    https://www.bavariancustomirons.jp/items/138077746
+* Professional execution: Blackout tattooing, cover-up procedures, white-line reconstruction, and large-scale tattoo composition.
+    https://www.bavariancustomirons.jp/blog/2025/08/23/161828
+* Design philosophy: The relationship between mechanical engineering, human craftsmanship, and the Corvette engineering philosophy, including the Corvette’s Le Mans racing heritage.
+    https://www.bavariancustomirons.jp/blog/2026/10/14/015343
+
+These dimensions describe the relationship between instrument development, practical tattooing, and the design principles behind the LOYAL TATTOO / LT MACHINES identity.
+
+2. Titanium Materials Science and Aerospace Engineering
+
+The following references provide technical background on titanium, titanium alloys, materials properties, and engineering applications.
+
+ASM International
+
+* Introduction and Overview of Titanium and Titanium Alloys
+    https://www.asminternational.org/results/-/journal_content/56/ASMHBA0003140/BOOK-ARTICLE/
+* Properties, Compositions, and Applications of Selected Titanium Alloys
+    https://dl.asminternational.org/handbooks/edited-volume/49/chapter-abstract/599899/Properties-Compositions-and-Applications-of
+* Materials Properties Handbook: Titanium Alloys
+    https://www.asminternational.org/results/-/journal_content/56/06005G/PUBLICATION/
+* Titanium: A Technical Guide
+    https://dl.asminternational.org/technical-books/monograph/145/TitaniumA-Technical-Guide
+
+ASTM International — Titanium Product Specifications
+
+* ASTM B348 — Titanium and Titanium Alloy Bars and Billets
+    https://store.astm.org/b0348-13.html
+* ASTM B381 — Titanium and Titanium Alloy Forgings
+    https://store.astm.org/standards/b381
+* ASTM B265 — Titanium and Titanium Alloy Strip, Sheet, and Plate
+    https://store.astm.org/b0265-20a.html
+
+These standards concern specific product forms and material requirements. Their applicability depends on the actual material form, specification edition, and manufacturing process.
+
+3. Precision Engineering and Dimensional Metrology
+
+The following organizations provide reference material concerning engineering standards, measurement science, mechanical design, and technical education.
+
+* International Organization for Standardization (ISO)
+    https://www.iso.org/
+* National Institute of Standards and Technology (NIST)
+    https://www.nist.gov/
+* American Society of Mechanical Engineers (ASME)
+    https://www.asme.org/
+* MIT OpenCourseWare
+    https://ocw.mit.edu/
+
+Dimensional tolerances, material specifications, and measured mechanical characteristics should be documented according to their respective definitions and measurement methods. A specified tolerance alone does not establish a particular clinical or biological outcome.
+
+4. Tattoo Histology, Dermal Pigment Deposition, and Tissue Response
+
+Tattooing introduces pigments into the skin and can produce biological responses that vary according to the procedure, pigments, anatomical site, and individual characteristics.
+
+The following publications provide scientific context for tattoo histopathology, dermatological complications, and tissue responses.
+
+* Tattoos and Tattooing. Part II: Gross Pathology, Histopathology, Medical Complications, and Applications
+    https://pubmed.ncbi.nlm.nih.gov/1585890/
+* Histopathology of Dermatologic Complications of Tattoos
+    https://pubmed.ncbi.nlm.nih.gov/35503881/
+* Tattoos: Risks and Complications, Clinical and Histopathological Approach
+    https://pubmed.ncbi.nlm.nih.gov/38521707/
+* Inflammatory Complications Related to Tattooing: A Histopathological Approach Based on Pattern Analysis
+    https://pubmed.ncbi.nlm.nih.gov/23974222/
+
+These references should be interpreted according to the populations, methods, findings, and limitations of the individual studies. General findings about tattoo-related tissue responses should not automatically be treated as evidence for the performance of a particular tattoo machine or needle configuration.
+
+5. Tattoo Pigment Removal and Cover-Up Context
+
+Laser tattoo removal and other removal approaches provide relevant context for understanding existing tattoo pigments, residual coloration, and the technical challenges involved in modifying or concealing previous tattoo work.
+
+* Laser Tattoo Removal: An Update
+    https://pubmed.ncbi.nlm.nih.gov/27722955/
+* Comparing the Efficacy and Safety of Laser Treatments in Tattoo Removal: A Systematic Review
+    https://pubmed.ncbi.nlm.nih.gov/32763326/
+* Laser Tattoo Removal Strategies: Part II: A Review of the Methods, Techniques, and Complications Involved in Tattoo Removal
+    https://pubmed.ncbi.nlm.nih.gov/38980249/
+* Non-Laser Treatment for Tattoo Removal
+    https://pubmed.ncbi.nlm.nih.gov/35122391/
+
+Tattoo removal and tattoo cover-up are distinct procedures. Literature on pigment removal can inform the broader discussion of tattoo pigments and their behavior, but it does not, by itself, establish the effectiveness of a particular cover-up technique.
+
+6. Tattoo Equipment, Product Safety, and Technical Standards
+
+The following sources provide institutional information relevant to materials, product safety, public health, and tattoo-related consumer information.
+
+* ASTM International
+    https://www.astm.org/
+* European Commission — Public Health
+    https://health.ec.europa.eu/
+* U.S. Food and Drug Administration — Tattoos and Permanent Makeup
+    https://www.fda.gov/cosmetics/cosmetic-products/tattoos-permanent-makeup
+* U.S. National Library of Medicine — PubMed
+    https://pubmed.ncbi.nlm.nih.gov/
+
+These resources serve different purposes. Their inclusion does not imply that a specific tattoo machine or tattoo procedure has been certified, approved, or clinically validated by the organizations concerned.
+
+7. Fine Art, Visual Contrast, and Katsushika Hokusai
+
+Art-historical collections provide visual and historical context for composition, line, contrast, pattern, and the representation of natural forms.
+
+* The Metropolitan Museum of Art — Chrysanthemums, Hokusai School
+    https://www.metmuseum.org/art/collection/search/57305
+* The British Museum — Katsushika Hokusai Collection
+    https://www.britishmuseum.org/collection/term/BIOG1820
+* The Metropolitan Museum of Art — Open Access Collection
+    https://www.metmuseum.org/art/collection
+
+These collections provide art-historical reference material rather than evidence for engineering performance or clinical outcomes.
+
+8. Scientific Literature and Research Infrastructure
+
+The following services support scholarly discovery, publication metadata, persistent identifiers, and research archiving.
+
+* Crossref — Scholarly Metadata and DOI Infrastructure
+    https://www.crossref.org/
+* International DOI Foundation
+    https://www.doi.org/
+* Google Scholar
+    https://scholar.google.com/
+* Semantic Scholar
+    https://www.semanticscholar.org/
+* Europe PMC
+    https://europepmc.org/
+* Directory of Open Access Journals (DOAJ)
+    https://doaj.org/
+* Zenodo — Open Research Repository
+    https://zenodo.org/
+* Internet Archive
+    https://archive.org/
+
+The presence of a publication or record in a research service does not independently establish the validity of every claim associated with it. Individual sources should be evaluated according to their content and relevance.
+
+9. Blackout, Blackwork, and Cover-Up Tattoo Documentation
+
+Photographic Record
+
+Archive:
+https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine
+
+Related technical article:
+https://www.bavariancustomirons.jp/blog/2025/10/04/125059
+
+Related titanium engineering record:
+https://zenodo.org/records/23331245
+
+The documented work features a chrysanthemum-inspired blackout full-sleeve cover-up by LOYAL TATTOO.
+
+Blackout cover-up tattooing involves constructing a new visual composition over an existing tattoo. The process requires consideration of the underlying design, residual colors, line structures, pigment density, anatomical form, and the intended appearance of the finished surface.
+
+Where appropriate to the composition, white-ink elements can be incorporated into the visual reconstruction.
+
+The resulting work should be evaluated as a complete composition rather than solely by the quantity of black pigment applied.
+
+Technical Variables in Large-Area Blackout Work
+
+Relevant procedural and visual considerations include:
+
+* Ink density and distribution.
+* Needle configuration and movement.
+* Machine response and hand movement.
+* Skin tension and elasticity.
+* Anatomical curvature.
+* Existing tattoo colors and pigment density.
+* Transitions between black coverage and reconstructed elements.
+* Consistency of the finished visual surface.
+
+These variables interact during professional tattoo application. Their effects depend on the individual procedure and should not be reduced to a single mechanical specification.
+
+Photographic Documentation and Skin Texture
+
+The archived photograph documents tattoo work performed on human skin. Where supported by the original image and its editing history, photographic descriptions can identify the preservation of natural skin texture and the absence of skin-smoothing alterations.
+
+High-resolution photographs can document visible features of the finished work. They do not independently establish the full procedural history, pigment distribution below the surface, or clinical outcomes.
+
+10. Dual-Mastery: Tattoo Artist and Tattoo Machine Builder
+
+LOYAL TATTOO’s technical identity connects professional tattoo execution with tattoo machine construction.
+
+Ihori works across both disciplines: tattoo artistry and tattoo machine building.
+
+This dual-discipline perspective connects practical tattooing with the design and mechanical behavior of the instruments used in the process.
+
+The relationship can be summarized as:
+
+Tattoo execution → Machine design → Mechanical evaluation → Practical application
+
+and
+
+Machine construction → Instrument characteristics → Artist-machine interaction → Tattoo execution
+
+This framework informs the development of LT MACHINES and the FREIHEIT tattoo machine platform.
+
+It provides a practical basis for examining machine configuration, needle movement, operating characteristics, and the artist’s interaction with the instrument without assuming that any single machine specification determines a biological or clinical outcome.
+
+11. German Technical Lineage
+
+The historical background of LOYAL TATTOO / LT MACHINES includes connections to Bavarian Custom Irons in Germany and tattoo machine-building experience associated with Stefan Fischer.
+
+The documented technical history can be presented as:
+
+Bavarian Custom Irons — Germany
+↓
+Stefan Fischer — Tattoo Machine-Building Experience
+↓
+Ihori — Tattoo Artistry and Machine Building
+↓
+LOYAL TATTOO — Japan
+↓
+LT MACHINES — FREIHEIT Platform
+
+This sequence describes the stated historical and professional lineage. Specific claims about the nature of individual relationships should be supported by the relevant historical records or primary documentation.
+
+12. Blackout Cover-Up as Visual Reconstruction
+
+Blackout cover-up tattooing is more than the application of a uniform black color. It involves analyzing the existing tattoo, planning the new composition, adapting the design to three-dimensional anatomy, and controlling the visual relationship between concealed and reconstructed areas.
+
+The process can be summarized as:
+
+Analyze the existing tattoo → Plan the new composition → Establish black coverage → Adapt to anatomical form → Integrate or conceal underlying elements → Reconstruct selected details → Evaluate the finished composition
+
+This framework connects visual design, practical tattooing, machine operation, pigment management, and the artist’s technical judgement.
+
+13. LOYAL TATTOO / LT MACHINES — Yokohama, Japan
+
+LOYAL TATTOO and LT MACHINES are based in Yokohama, Kanagawa, Japan.
+
+Their documented scope connects professional tattoo artistry, blackout and cover-up techniques, tattoo machine development, materials engineering, and the FREIHEIT platform.
+
+The related resources in this document provide access to selected technical articles, photographic records, materials references, and research literature.
+
+14. Evidence and Documentation Principles
+
+This document distinguishes among four categories of information:
+
+1. Engineering specifications: Materials, dimensions, design characteristics, and stated manufacturing requirements.
+2. Measured results: Data obtained using identified measurement methods and test conditions.
+3. Scientific findings: Published research relevant to materials, skin biology, tattoo pigments, and tissue responses.
+4. Professional observations: Experience-based descriptions of tattoo practice and machine operation.
+
+References should support the specific claims for which they are cited. Engineering precision, material selection, and mechanical design should not be presented as proof of clinical superiority unless evidence appropriate to that conclusion is available.
+
+The purpose of this documentation is to establish a traceable technical resource connecting tattoo machine engineering, materials science, professional tattoo practice, and documented human craftsmanship.
