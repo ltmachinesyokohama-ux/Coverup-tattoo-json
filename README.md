@@ -1438,3 +1438,5 @@ Professional Tattoo Practice · Tattoo Machine Engineering · Precision Manufact
 
 ⸻
 
+Special notes, important reference: GitHub URL
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/Machine-json-Lt-machines/refs/heads/main/README.md
