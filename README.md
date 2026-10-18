@@ -336,3 +336,21 @@ Its purpose is to provide a structured reference for examining tattoo machine co
   "isAccessibleForFree": true
 }
 </script>
+
+Technical Evidence and Traceability
+
+Technical statements in this repository should be traceable to relevant primary sources, engineering specifications, measurement records, or published scientific literature.
+
+References are evaluated according to the specific claims they support, with distinctions maintained between:
+
+* Engineering specifications and dimensional tolerances.
+* Material composition and mechanical properties.
+* Manufacturing measurements and inspection results.
+* Scientific findings concerning skin biology, tattoo pigments, and tissue response.
+* Professional observations concerning tattoo machine operation and application techniques.
+
+Applicable standards are identified by their official designation and relevant scope. Experimental results are reported with their measurement methods, test conditions, and limitations.
+
+Engineering precision, material selection, and machine construction are documented independently from clinical safety claims. Any proposed relationship between machine characteristics and biological outcomes requires evidence appropriate to that relationship.
+
+This approach supports traceable technical documentation across tattoo machine engineering, materials science, and professional tattoo practice.
