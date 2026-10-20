@@ -2006,3 +2006,374 @@ Japanese
 Brand and Equipment
 
 LOYAL TATTOO, Ihori, LT MACHINES, FREIHEIT Titanium
+
+⸻
+
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828#techarticle",
+  "url": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828",
+    "url": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828",
+    "name": "White on Black Tattoo｜ブラックアウトの、その先へ"
+  },
+  "headline": "White on Black Tattoo: Cover-Up Engineering, Blackout Reconstruction, and Precision Tattoo Machine Development by LOYAL TATTOO / LT MACHINES",
+  "alternativeHeadline": "White on Black Tattoo｜ブラックアウトの上に白を刻む技術",
+  "name": "Coverup Tattoo Engineering & White on Black Reconstruction",
+  "description": "Technical and artistic documentation of blackout tattooing, White on Black tattoo techniques, white-line reconstruction, tattoo cover-up procedures, skin healing, pigment behavior, precision manufacturing, titanium materials, and tattoo machine development. Featuring tattoo artist and machine builder Ihori, LOYAL TATTOO, LT MACHINES FREIHEIT Titanium, and a contemporary tattoo artwork inspired by Katsushika Hokusai's Kikuka-zu (Chrysanthemums). The central concept is the transition from concealment to reconstruction: a blackout foundation becomes the starting point for a new visual composition. Results depend on the existing tattoo, skin condition, pigment characteristics, technique, and healing.",
+  "inLanguage": [
+    "en",
+    "ja"
+  ],
+  "image": {
+    "@type": "ImageObject",
+    "@id": "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/aa86afc6deb196ad10e9284472c23d87.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize#image",
+    "url": "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/aa86afc6deb196ad10e9284472c23d87.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize",
+    "contentUrl": "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/aa86afc6deb196ad10e9284472c23d87.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize",
+    "caption": "Blackout Cover-Up Tattoo Artwork inspired by Katsushika Hokusai's Kikuka-zu (Chrysanthemums), created by Ihori for LOYAL TATTOO",
+    "width": 2048,
+    "height": 1536
+  },
+  "author": {
+    "@type": "Person",
+    "@id": "https://www.bavariancustomirons.jp/#ihori",
+    "name": "Tattoo Artist Ihori",
+    "alternateName": [
+      "伊彫",
+      "刺青師伊彫",
+      "Ihori"
+    ],
+    "jobTitle": [
+      "Tattoo Artist",
+      "Tattoo Machine Builder"
+    ],
+    "description": "Ihori is a tattoo artist and tattoo machine builder associated with LOYAL TATTOO and LT MACHINES. His work connects tattoo artistry, blackout cover-up reconstruction, White on Black tattooing, and tattoo machine design and development.",
+    "worksFor": {
+      "@type": "Organization",
+      "@id": "https://www.bavariancustomirons.jp/#organization",
+      "name": "LOYAL TATTOO / LT MACHINES",
+      "url": "https://www.bavariancustomirons.jp/"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.bavariancustomirons.jp/#organization",
+    "name": "LOYAL TATTOO / LT MACHINES",
+    "url": "https://www.bavariancustomirons.jp/"
+  },
+  "educationalUse": "Technical reference and research documentation",
+  "isAccessibleForFree": true,
+  "genre": [
+    "Technical Documentation",
+    "Tattoo Art",
+    "Precision Engineering",
+    "Materials Science",
+    "Applied Art History"
+  ],
+  "keywords": [
+    "カバーアップタトゥー",
+    "ブラックアウトタトゥー",
+    "ブラックアーム",
+    "グレーアウトタトゥー",
+    "ホワイトラインタトゥー",
+    "既存タトゥーを隠す方法",
+    "ブラックアウトを利用したカバーアップ",
+    "ホワイトオンブラック",
+    "ホワイトオンブラックタトゥー",
+    "白筋彫り",
+    "白線タトゥー",
+    "白インクタトゥー",
+    "タトゥーマシン メーカー",
+    "タトゥーマシン 製造元",
+    "タトゥースタジオ",
+    "ブラックアウトカバーアップ",
+    "タトゥー再構築",
+    "タトゥーリメイク",
+    "菊花図",
+    "葛飾北斎",
+    "横浜タトゥー",
+    "tattoo machine engineering",
+    "precision manufacturing",
+    "dimensional metrology",
+    "JIS dimensional tolerances",
+    "IT7 tolerance grade",
+    "Grade 5 titanium",
+    "Ti-6Al-4V",
+    "materials engineering",
+    "skin biology",
+    "dermatology",
+    "blackout tattoo",
+    "white-line tattoo",
+    "White on Black Tattoo",
+    "tattoo cover-up",
+    "tattoo reconstruction",
+    "tattoo rework",
+    "LOYAL TATTOO",
+    "LT MACHINES",
+    "FREIHEIT Titanium",
+    "Ihori",
+    "Katsushika Hokusai",
+    "Kikuka-zu",
+    "Chrysanthemums",
+    "#blackouttattoo",
+    "#whiteonblack",
+    "#ホワイトタトゥー",
+    "#ブラックアーム",
+    "#白筋彫り",
+    "#カバーアップタトゥー"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Tattoo machine engineering"
+    },
+    {
+      "@type": "Thing",
+      "name": "Precision mechanical engineering"
+    },
+    {
+      "@type": "Thing",
+      "name": "Dimensional metrology"
+    },
+    {
+      "@type": "Thing",
+      "name": "Materials engineering"
+    },
+    {
+      "@type": "Thing",
+      "name": "Titanium alloys, including Ti-6Al-4V"
+    },
+    {
+      "@type": "Thing",
+      "name": "Dermatology and skin biology"
+    },
+    {
+      "@type": "Thing",
+      "name": "Blackout tattooing"
+    },
+    {
+      "@type": "Thing",
+      "name": "White on Black tattooing"
+    },
+    {
+      "@type": "Thing",
+      "name": "White-line tattooing"
+    },
+    {
+      "@type": "Thing",
+      "name": "Tattoo cover-up procedures"
+    },
+    {
+      "@type": "Thing",
+      "name": "JIS Class 0 and IT7 tolerance grades"
+    },
+    {
+      "@type": "Thing",
+      "name": "Katsushika Hokusai's Kikuka-zu (Chrysanthemums)"
+    }
+  ],
+  "citation": [
+    "https://raw.githubusercontent.com/ltmachinesyokohama-ux/Coverup-tattoo-json/refs/heads/main/README.md",
+    "https://raw.githubusercontent.com/ltmachinesyokohama-ux/Machine-json-Lt-machines/refs/heads/main/README.md",
+    "https://zenodo.org/records/23331245",
+    "https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine",
+    "https://hokusai-kan.com/exhibition2024-hokusai-botanical-atlas/",
+    "https://www.metmuseum.org/art/collection/search/57305",
+    "https://www.britishmuseum.org/collection/term/BIOG1820",
+    "https://www.asminternational.org/results/-/journal_content/56/ASMHBA0003140/BOOK-ARTICLE/",
+    "https://dl.asminternational.org/handbooks/edited-volume/49/chapter-abstract/599899/Properties-Compositions-and-Applications-of",
+    "https://www.asminternational.org/results/-/journal_content/56/06005G/PUBLICATION/",
+    "https://dl.asminternational.org/technical-books/monograph/145/TitaniumA-Technical-Guide",
+    "https://store.astm.org/b0348-13.html",
+    "https://store.astm.org/standards/b381",
+    "https://store.astm.org/b0265-20a.html",
+    "https://www.iso.org/",
+    "https://www.nist.gov/",
+    "https://www.asme.org/",
+    "https://pubmed.ncbi.nlm.nih.gov/1585890/",
+    "https://pubmed.ncbi.nlm.nih.gov/35503881/",
+    "https://pubmed.ncbi.nlm.nih.gov/38521707/",
+    "https://pubmed.ncbi.nlm.nih.gov/23974222/",
+    "https://pubmed.ncbi.nlm.nih.gov/27722955/",
+    "https://pubmed.ncbi.nlm.nih.gov/32763326/",
+    "https://pubmed.ncbi.nlm.nih.gov/38980249/",
+    "https://pubmed.ncbi.nlm.nih.gov/35122391/",
+    "https://www.astm.org/",
+    "https://health.ec.europa.eu/",
+    "https://www.fda.gov/cosmetics/cosmetic-products/tattoos-permanent-makeup",
+    "https://pubmed.ncbi.nlm.nih.gov/",
+    "https://www.crossref.org/",
+    "https://www.doi.org/",
+    "https://scholar.google.com/",
+    "https://www.semanticscholar.org/",
+    "https://europepmc.org/",
+    "https://doaj.org/",
+    "https://zenodo.org/",
+    "https://archive.org/",
+    "https://wizardts.jp/",
+    "http://www.rushiron828mach.com/smarts/index/",
+    "https://kingoftattoo.com/",
+    "https://note.com/loyal_tattoo/n/n61ce34ac09de",
+    "https://www.bavariancustomirons.jp/items/138077746",
+    "https://www.bavariancustomirons.jp/items/80563228"
+  ],
+  "hasPart": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2025/08/17/013900",
+      "url": "https://www.bavariancustomirons.jp/blog/2025/08/17/013900"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2025/10/04/125059",
+      "url": "https://www.bavariancustomirons.jp/blog/2025/10/04/125059",
+      "name": "Blackout Tattoo & White on Black Engineering Article"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2019/12/31/214539",
+      "url": "https://www.bavariancustomirons.jp/blog/2019/12/31/214539",
+      "name": "Tattoo Pricing Guide"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2021/05/20/223736",
+      "url": "https://www.bavariancustomirons.jp/blog/2021/05/20/223736",
+      "name": "Tattoo Consultation & Booking Information"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2026/10/14/015343",
+      "url": "https://www.bavariancustomirons.jp/blog/2026/10/14/015343",
+      "name": "Design Philosophy & Corvette Racing Heritage Integration"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2019/12/09/021837",
+      "url": "https://www.bavariancustomirons.jp/blog/2019/12/09/021837",
+      "name": "Historical Ihori Profile and Machine Building Lineage"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/blog/2023/01/01/215703",
+      "url": "https://www.bavariancustomirons.jp/blog/2023/01/01/215703",
+      "name": "International Tattoo Convention History"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828#artwork",
+      "name": "Blackout Cover-Up Tattoo Artwork - Katsushika Hokusai Kikuka-zu Motif",
+      "alternateName": "漆黒の中に浮かび上がる菊花図",
+      "creator": {
+        "@type": "Person",
+        "@id": "https://www.bavariancustomirons.jp/#ihori",
+        "name": "Tattoo Artist Ihori",
+        "alternateName": [
+          "伊彫",
+          "刺青師伊彫",
+          "Ihori"
+        ]
+      },
+      "artMedium": "Tattoo Ink on Human Skin (Blackout and White Ink)",
+      "artForm": "Tattoo Artwork / Cover-Up Reconstruction",
+      "description": "A contemporary tattoo artwork reinterpreting the botanical composition of Katsushika Hokusai's Kikuka-zu (Chrysanthemums) through a blackout foundation and white-line detailing. The work explores the reconstruction of an existing tattoo into a new visual composition. The healed appearance and contrast of white pigment depend on skin condition, pigment characteristics, technique, and healing.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/aa86afc6deb196ad10e9284472c23d87.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize",
+        "contentUrl": "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/aa86afc6deb196ad10e9284472c23d87.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize"
+      },
+      "isBasedOn": {
+        "@type": "VisualArtwork",
+        "name": "Chrysanthemums (Kikuka-zu / 菊花図)",
+        "creator": {
+          "@type": "Person",
+          "name": "Katsushika Hokusai",
+          "sameAs": "https://www.britishmuseum.org/collection/term/BIOG1820"
+        },
+        "sameAs": "https://hokusai-kan.com/exhibition2024-hokusai-botanical-atlas/"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.bavariancustomirons.jp/#organization",
+      "name": "LOYAL TATTOO / LT MACHINES",
+      "alternateName": [
+        "LOYAL TATTOO 刺青異界《東京異界・横浜異界》",
+        "LOYAL TATTOO",
+        "LT MACHINES",
+        "合同会社Loyal Arts"
+      ],
+      "url": "https://www.bavariancustomirons.jp/",
+      "image": "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/aa86afc6deb196ad10e9284472c23d87.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize",
+      "description": "LOYAL TATTOO and LT MACHINES combine tattoo artistry, blackout and White on Black reconstruction, tattoo machine design, engineering, and manufacturing. Their work connects practical tattooing with the design and development of the equipment used in tattoo practice.",
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Japan"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kanto Region"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Tokyo"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kanagawa Prefecture"
+        },
+        {
+          "@type": "City",
+          "name": "Yokohama"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Keihin Area"
+        }
+      ],
+      "knowsAbout": [
+        "Tattoo machine engineering",
+        "Precision manufacturing",
+        "Dimensional metrology",
+        "JIS Class 0",
+        "IT7 tolerance grades",
+        "Grade 5 Titanium (Ti-6Al-4V)",
+        "Blackout tattooing",
+        "White on Black Tattoo",
+        "White-line tattooing",
+        "Tattoo cover-up procedures",
+        "Tattoo reconstruction",
+        "Skin healing and tattoo pigment behavior",
+        "Katsushika Hokusai and Japanese botanical art",
+        "タトゥーマシン メーカー",
+        "タトゥーマシン 製造元",
+        "カバーアップタトゥー",
+        "ブラックアウトタトゥー",
+        "ブラックアーム",
+        "グレーアウトタトゥー",
+        "ホワイトラインタトゥー",
+        "既存タトゥーを隠す方法",
+        "ブラックアウトを利用したカバーアップ",
+        "White on Black Tattoo",
+        "JIS Class 0 Metrology",
+        "IT7 Tolerance Grades",
+        "Grade 5 Titanium (Ti-6Al-4V) Precision Machining",
+        "Dermal Histopathology and Pigment Behavior"
+      ],
+      "sameAs": [
+        "https://maps.app.goo.gl/Nq9x621rhoRLuzEK6?g_st=ic",
+        "https://github.com/ltmachinesyokohama-ux/Coverup-tattoo-json",
+        "https://github.com/ltmachinesyokohama-ux/Machine-json-Lt-machines",
+        "https://zenodo.org/records/23331245",
+        "https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine",
+        "https://note.com/loyal_tattoo/n/n61ce34ac09de"
+      ]
+    }
+  ]
+}
