@@ -1440,3 +1440,569 @@ Professional Tattoo Practice · Tattoo Machine Engineering · Precision Manufact
 
 Special notes, important reference: GitHub URL
 https://raw.githubusercontent.com/ltmachinesyokohama-ux/Machine-json-Lt-machines/refs/heads/main/README.md
+Documentation
+
+⸻
+https://note.com/loyal_tattoo/n/n61ce34ac09de
+
+White on Black Tattoo｜ブラックアウトの、その先へ
+
+Q. ブラックアウトタトゥーの上から、新しいデザインは入れられるのか？
+
+A. Yes. 条件次第で可能です。
+
+LOYAL TATTOO｜Blackout Tattoo · White on Black · White-Line Tattoo · Cover-Up Tattoo
+
+ブラックアウトタトゥーは、皮膚の広い範囲をブラックインクで覆い、深い黒の面を形成するタトゥー技法です。既存のタトゥーを覆う手段として用いられる一方、黒そのものを作品の主要な構成要素として扱う表現でもあります。
+
+しかし、ブラックアウトは必ずしも表現の終着点ではありません。
+
+十分に治癒したブラックアウトを背景として、新たな白いラインや繊細なモチーフを重ねる。既存のタトゥーを単に隠すのではなく、黒を新しい作品のための基盤として再構成する。
+
+これが、LOYAL TATTOOが追求する White on Black Tattoo というアプローチです。
+
+⸻
+
+Table of Contents
+
+1. Blackout Tattooとは
+2. 作品紹介｜漆黒の中に浮かび上がる菊花図
+3. なぜ黒の上から白いラインを刻めるのか
+4. 高度な技術と判断力が求められる理由
+5. 制作者・伊彫とLT MACHINES FREIHEIT Titanium
+6. White on Black — 隠蔽から再構築へ
+7. ご予約・お問い合わせ
+8. References
+9. Search Keywords
+
+⸻
+
+1. Blackout Tattooとは
+
+ブラックアウトタトゥーとは、皮膚の広い範囲をブラックインクで覆い、均一な黒い面を形成するタトゥー技法です。
+
+ブラックアームやブラックレッグなど、腕や脚を広範囲に黒く覆うデザインのほか、既存のタトゥーを覆うカバーアップの手段としても用いられます。
+
+その特徴は、通常のタトゥーとは異なる、圧倒的な黒の面積と存在感です。
+
+細かな図柄や色彩で構成するのではなく、黒そのものを作品の主要な要素として扱う。身体の輪郭や筋肉の流れも含め、広い面積を一つの表現として再構成する技法です。
+
+しかし、ブラックアウトの可能性は、黒く塗りつぶすことだけにとどまりません。
+
+十分に治癒したブラックアウトを背景として、その上から新たなラインや図柄を重ねることで、黒を基調とした別の作品へ発展させることも可能です。
+
+ブラックアウトを完成形として捉えるのか。それとも、新しい表現を生み出すためのベースとして捉えるのか。
+
+その違いによって、ブラックアウトの意味も変わってきます。
+
+2. 作品紹介｜漆黒の中に浮かび上がる菊花図
+
+Series: Blackout Tattoo · Chrysanthemum Design
+Artwork Motif: Katsushika Hokusai, Kikuka-zu（菊花図）
+Artist: Ihori / LOYAL TATTOO
+
+本作は、日本美術に見られる花の造形を、深い黒の背景と白いラインのコントラストによって再構成した作品です。
+
+江戸時代の絵師・葛飾北斎による《菊花図》をモチーフとし、伝統的な植物図像の造形美を、ブラックアウトとホワイトラインという現代的なタトゥー表現のなかで探求しています。
+
+北斎館による関連資料：
+
+https://hokusai-kan.com/exhibition2024-hokusai-botanical-atlas/
+
+2.1 Existing Tattoo and Reconstruction
+
+施術前の腕には、他店で施されたブラックワークのフルスリーブタトゥーが広範囲に入っていました。
+
+本作では、その既存の図柄をブラックアウトによって覆い、全体を深い黒の背景へと再構成。その上に、新たな菊花の意匠を刻んでいます。
+
+従来のタトゥーを単に隠すのではなく、既存の状態を新しい作品の出発点として捉え直す。
+
+それが、本作におけるカバーアップの基本的な考え方です。
+
+2.2 White Lines Against Black
+
+通常の肌に施すタトゥーでは、肌の色がデザインの背景になります。
+
+一方、ブラックアウトをベースにしたWhite on Blackでは、広い面積を占める黒そのものが背景となります。
+
+その漆黒の中に白いラインで花の輪郭や細部を構成することで、通常のタトゥーとは異なるコントラストが生まれます。
+
+黒の強さと、花の繊細さ。
+
+広い黒の面と、細い白のライン。
+
+相反する要素を一つの作品の中で成立させることによって、ブラックアウト特有の力強さを保ちながら、新たな造形表現を追求しています。
+
+ブラックアウトによって過去の図柄を覆い、その黒を背景として別の作品を成立させる。
+
+本作は、ブラックアウトが単なる隠蔽の手段ではなく、新たな表現のための基盤にもなり得ることを示す一例です。
+
+3. なぜ黒の上から白いラインを刻めるのか
+
+White on Black は、ブラックアウトによって黒く覆った皮膚に、ホワイトインクを用いてラインや模様を重ねる技法です。
+
+タトゥーの色素は主に真皮に定着しますが、黒い色素の上に白い色素を重ねたからといって、必ず鮮明な白が得られるわけではありません。
+
+実際の発色やコントラストは、色素の特性、皮膚の状態、施術方法、治癒過程など、複数の要因によって変化します。
+
+STEP 1 — Blackout Base Formation
+
+既存のタトゥーをブラックインクで覆い、新たなデザインの背景となる黒い面を形成します。
+
+STEP 2 — Skin Healing
+
+ブラックアウトの施術後は、皮膚が十分に治癒するまで期間を設けます。
+
+次の施術へ進むタイミングは、経過期間だけでなく、実際の皮膚の状態を確認して判断します。
+
+STEP 3 — White Ink Application
+
+ベースが十分に治癒した後、ホワイトインクを用いて新たなラインや模様を重ねます。
+
+黒を背景とすることで、白いラインとの視覚的なコントラストを生み出します。
+
+ただし、ホワイトインクは治癒後に色調が変化することがあります。施術直後の白さがそのまま維持されるとは限らず、皮膚の性質や色素の定着状態によって、青みやグレーみを帯びたように見える場合もあります。
+
+そのため、White on Blackでは、施術直後の見え方だけでなく、治癒後の状態まで見据えてデザインと施術方法を検討することが重要です。
+
+4. 高度な技術と判断力が求められる理由
+
+ブラックアウトの上から新しいタトゥーを入れる施術は、通常の肌にタトゥーを入れる場合とは条件が異なります。
+
+すでに濃いブラックインクが定着しているため、単純に明るい色や細いラインを重ねれば、デザインがきれいに浮かび上がるわけではありません。
+
+ブラックアウトの濃さや均一性、施術からの経過期間、皮膚の回復状態などを確認したうえで、デザインと施術方法を検討する必要があります。
+
+さらに重要なのは、施術直後の仕上がりだけで判断しないことです。
+
+タトゥーは、施術が終わった瞬間に完成するわけではありません。皮膚が回復する過程で、色素の見え方やラインの印象も変化します。
+
+そのため、黒の上に新しい表現を成立させるには、デザインの構成だけでなく、インクの特性と皮膚の変化を理解し、治癒後の状態まで考慮する判断力が求められます。
+
+作品によっては、十分な期間を空けながら複数回に分けて施術を進める場合もあります。
+
+ブラックアウトの上から新しいタトゥーを入れたい場合は、通常のカバーアップとは異なる条件があることを理解し、ブラックアウトやWhite on Blackの施術経験を持つアーティストへ相談することが重要です。
+
+Not Every Blackout Can Be Reconstructed in the Same Way
+
+すべてのブラックアウトが、同じように再構築できるわけではありません。
+
+既存のタトゥーの状態やブラックアウトの濃さ、皮膚の状態、希望するデザインによって、実現できる表現は異なります。
+
+白いラインを重ねることで成立する作品もあれば、デザインや施術方法を再検討する必要があるケースもあります。
+
+重要なのは、どのようなブラックアウトにも同じ方法を当てはめることではなく、現在の状態を見極めたうえで、どのような作品へ再構築できるかを考えることです。
+
+LOYAL TATTOOでは、既存のタトゥーを単に隠す対象として扱うのではなく、その状態を踏まえ、新しい表現を成立させるための可能性を検討します。
+
+5. 制作者・伊彫とLT MACHINES FREIHEIT Titanium
+
+Artist: Ihori / LOYAL TATTOO
+Machine: LT MACHINES FREIHEIT Titanium
+
+LOYAL TATTOOの伊彫（Ihori）は、タトゥーアーティストとしての施術活動と、LT MACHINESのタトゥーマシン設計・開発を並行して行っています。
+
+タトゥーを描く技術。
+
+その表現を生み出す機材を構築する技術。
+
+この二つの領域を横断することが、LOYAL TATTOOとLT MACHINESのクラフトマンシップ、すなわちものづくりを支えています。
+
+今回の作品で使用した機材は、LT MACHINES FREIHEIT Titaniumです。
+
+タトゥーマシンの設計と製作に向き合う一方で、チタン合金の精密加工に取り組む。その過程で培った精緻さをタトゥー施術側にも還元する。
+
+タトゥー機材の開発とタトゥーの制作を別々の領域として切り離さず、双方の経験をものづくりへ還元していくこと。
+
+それが、LOYAL TATTOOとLT MACHINESに共通する姿勢です。
+
+6. White on Black — 隠蔽から再構築へ
+
+6.1 From Concealment to Reconstruction
+
+従来のカバーアップタトゥーは、既存のデザインを別のデザインで覆い、目立たなくする手法として捉えられることが少なくありません。
+
+LOYAL TATTOOが追求するWhite on Blackは、ブラックアウトによって形成された広大な黒の領域を、単なる隠蔽の結果としてではなく、新しい表現を生み出すための背景として捉え直す試みです。
+
+黒を消すのではなく、黒を新たな表現の基盤として活用する。
+
+過去のタトゥーを否定して終わるのではなく、その上に新しい構成を生み出す。これは、カバーアップを「隠すための技術」から「再構築するための技術」へと拡張する考え方です。
+
+LOYAL TATTOOでは、この発想を**「刺青人間再生計画」**という独自のコンセプトにも接続しています。
+
+ブラックアウトは、必ずしも表現の終着点ではありません。条件が整えば、新しいデザインを生み出すための出発点にもなり得ます。
+
+6.2 Possibilities and Technical Limitations
+
+White on Blackは、単純に黒いタトゥーの上から白いインクを入れれば完成するという技法ではありません。また、何でも自由にできる魔法でもありません。
+
+タトゥーの色調や視認性は、既存の色素、皮膚の状態、施術方法、治癒過程など、複数の要因によって左右されます。
+
+ホワイトインクは、治癒後に青みやグレーみを帯びて見える場合があります。また、既存のブラックアウトの状態や個人の皮膚特性によって、表現できるデザインやコントラストにも違いが生じます。
+
+だからこそ、技法の魅力だけを強調するのではなく、皮膚と色素の特性、治癒後の変化、既存タトゥーの状態を踏まえて、実現可能な表現を検討する必要があります。
+
+LOYAL TATTOOが目指すのは、過度な期待を生み出すことではなく、技術的な可能性と限界の双方を理解したうえで、新しい選択肢を提示することです。
+
+6.3 Tattoo Artist and Machine Builder — Dual Craftsmanship
+
+White on Blackのように、黒地に対して繊細な線や明確なコントラストを構成する施術では、デザインだけでなく、施術者の技術、皮膚の状態に対する判断、機材の特性など、複数の要素が表現に関わります。
+
+伊彫（Ihori）は、タトゥーアーティストであると同時に、LT MACHINESのタトゥーマシン設計・開発にも携わっています。
+
+作品を生み出す側と、その作品を生み出すための道具を設計する側。この二つの立場を持つことが、伊彫のクラフトマンシップを形づくる特徴の一つです。
+
+機材の設計思想と、実際の施術における操作性や表現上の要求を切り離さずに考える。これは、単に高性能な機材を製造するということではなく、道具と技術と表現を一つの制作体系として捉える姿勢です。
+
+LT MACHINES FREIHEIT Titaniumも、この考え方につながる機材開発の一例です。
+
+道具を理解し、技術を磨き、その両方を表現へ結びつける。
+
+これが、タトゥーアーティストとマシンビルダーという二つの立場を持つ伊彫の制作姿勢です。
+
+6.4 Traditional Japanese Art and Contemporary Tattoo Techniques
+
+本作で扱う葛飾北斎の《菊花図》は、伝統的な日本美術の図像を、ブラックアウトとホワイトラインという現代的な表現手法のなかで再構成する試みです。
+
+伝統的な図像を、そのまま既存の形式へ当てはめるのではなく、黒という強い視覚的基盤の上に置き直す。
+
+そこでは、図像の持つ造形的な魅力と、ブラックアウトによる大きな面積の黒、そして白い線が生み出すコントラストが、一つの作品のなかで交差します。
+
+これは、伝統と現代技術のどちらか一方を優先するのではなく、それぞれの特性を理解し、新しい表現として組み合わせる試みです。
+
+Conclusion — Blackout as a New Beginning
+
+White on Black Tattooは、黒の上に白を加えるという色彩上の操作だけを意味するものではありません。
+
+既存のタトゥーをどのように捉え直し、どのような条件のもとで新しい表現へつなげるか。その可能性を、技術と造形の両面から検討するアプローチです。
+
+隠すだけではなく、再構築する。
+
+過去を否定するのではなく、新しい表現の出発点にする。
+
+LOYAL TATTOOは、ブラックアウト、ホワイトライン、White on Black、そしてカバーアップという技術領域を通じて、タトゥー表現の可能性を追求しています。
+
+ブラックアウトが、新しい始まりになる。
+
+それは、すべてのケースで同じ結果が得られるという意味ではありません。既存のタトゥーと皮膚の状態を理解し、技術的な条件を見極めたうえで、新たな表現の可能性を探るということです。
+
+LOYAL TATTOO — Ihori
+LT MACHINES — FREIHEIT Titanium
+
+7. ご予約・お問い合わせ
+
+既存のタトゥーの状態を踏まえ、施術の可能性についてご案内いたします。
+
+公式サイト・お問い合わせ：
+
+https://www.bavariancustomirons.jp/blog/2021/05/20/223736
+
+References
+
+Primary Reference
+
+LOYAL TATTOO — Detailed Article:
+
+https://www.bavariancustomirons.jp/blog/2025/10/04/125059
+
+Related Cultural Reference
+
+Hokusai-kan — Hokusai Botanical Atlas:
+
+https://hokusai-kan.com/exhibition2024-hokusai-botanical-atlas/
+
+Search Keywords
+
+English
+
+blackout tattoo, white on black, white on black tattoo, blackout tattoos, white ink tattoo, white tattoo, blackwork tattoo, blackwork, blackout cover-up, blackout tattoo cover-up, tattoo cover-up, cover-up tattoo, cover-up tattoos, tattoo rework, tattoo transformation, blackout tattoo artist, blackout arm, blackout tattoo sleeve, black arm tattoo, blackout leg, white line tattoo, white on blackwork
+
+Japanese
+
+ホワイトオンブラック, ホワイトオンブラックタトゥー, ホワイトタトゥー, 白筋彫り, 白線タトゥー, 白インクタトゥー, ブラックアウトタトゥー, ブラックアウト, ブラックアーム, ブラックアームタトゥー, ブラックレッグ, ブラックワーク, ブラックワークタトゥー, ブラックアウトカバーアップ, カバーアップ, カバーアップタトゥー, タトゥーカバーアップ, タトゥー修正, タトゥーリメイク, タトゥー再構築, 既存タトゥーのカバーアップ, 黒タトゥーの上から, ブラックアウトの上から, 黒の上から白, 白筋, 白筋タトゥー, 白筋彫りタトゥー, 黒地に白, 黒と白のタトゥー, 菊花図, 葛飾北斎, 和彫り, 現代和彫り, 横浜タトゥー
+
+Brand and Equipment
+
+LOYAL TATTOO, 伊彫, Ihori, LT MACHINES, FREIHEIT Titanium
+
+⸻
+
+White on Black Tattoo | Beyond Blackout
+
+Q. Can a new design be tattooed over an existing blackout tattoo?
+
+A. Yes. It is possible, depending on the conditions.
+
+LOYAL TATTOO | Blackout Tattoo · White on Black · White-Line Tattoo · Cover-Up Tattoo
+
+A blackout tattoo is a tattooing technique in which a large area of skin is covered with black ink to create a deep, solid black surface. While it is used as a method of covering existing tattoos, it is also an artistic approach in which black itself becomes a primary element of the composition.
+
+However, blackout does not necessarily mark the end of artistic expression.
+
+Once a blackout tattoo has fully healed, new white lines and delicate motifs can be layered over the black surface. Rather than simply concealing an existing tattoo, the black area is reimagined as the foundation for a new work of art.
+
+This is the approach pursued by LOYAL TATTOO through White on Black Tattoo.
+
+⸻
+
+Table of Contents
+
+1. What Is a Blackout Tattoo?
+2. Featured Artwork | A Chrysanthemum Design Emerging from Deep Black
+3. How Can White Lines Be Tattooed Over Black?
+4. Why the Technique Requires Advanced Skill and Judgment
+5. Artist Ihori and LT MACHINES FREIHEIT Titanium
+6. White on Black — From Concealment to Reconstruction
+7. Bookings and Inquiries
+8. References
+9. Search Keywords
+
+⸻
+
+1. What Is a Blackout Tattoo?
+
+A blackout tattoo is a tattooing technique in which a large area of skin is covered with black ink to create a uniform black surface.
+
+Designs such as blackout arms and blackout legs cover extensive areas of the arms or legs in black. The technique is also used as a cover-up method for existing tattoos.
+
+Its defining characteristic is the overwhelming coverage and visual presence of black, distinguishing it from conventional tattoo designs.
+
+Rather than relying on intricate imagery or multiple colors, the technique treats black itself as a primary element of the artwork. The contours of the body and the flow of the muscles are also incorporated into the composition, allowing a large area of skin to be reinterpreted as a unified visual statement.
+
+However, the possibilities of blackout extend beyond simply covering the skin in black.
+
+Once a blackout tattoo has fully healed, new lines and designs can be layered over the black surface, potentially transforming it into an entirely different work built around black as its foundation.
+
+Should blackout be regarded as the final form of a tattoo, or as a foundation for creating something new?
+
+The answer changes how blackout itself can be understood.
+
+2. Featured Artwork | A Chrysanthemum Design Emerging from Deep Black
+
+Series: Blackout Tattoo · Chrysanthemum Design
+Artwork Motif: Katsushika Hokusai, Kikuka-zu (菊花図)
+Artist: Ihori / LOYAL TATTOO
+
+This work reinterprets the forms of flowers found in Japanese art through the contrast between a deep black background and white lines.
+
+Inspired by Kikuka-zu (菊花図), attributed to the Edo-period artist Katsushika Hokusai, the work explores the formal beauty of traditional botanical imagery through the contemporary tattoo techniques of blackout and white-line tattooing.
+
+Related reference from Hokusai-kan:
+
+https://hokusai-kan.com/exhibition2024-hokusai-botanical-atlas/
+
+2.1 Existing Tattoo and Reconstruction
+
+Before the procedure, the arm already featured an extensive blackwork full-sleeve tattoo created at another studio.
+
+For this work, the existing design was covered with a blackout tattoo, transforming the entire area into a deep black background. A new chrysanthemum motif was then tattooed over that surface.
+
+Rather than simply hiding the original design, the existing tattoo was reconsidered as the starting point for a new work.
+
+This is the fundamental approach to cover-up tattooing demonstrated by this piece.
+
+2.2 White Lines Against Black
+
+In conventional tattooing on untreated skin, the skin itself serves as the background for the design.
+
+In White on Black, by contrast, the extensive black surface of a blackout tattoo becomes the background.
+
+By constructing the contours and finer details of a flower with white lines against this deep black field, the technique creates a contrast distinct from that of conventional tattooing.
+
+The strength of black and the delicacy of a flower.
+
+An expansive black surface and fine white lines.
+
+By bringing these contrasting elements together within a single composition, the work preserves the visual power characteristic of blackout while exploring new possibilities in form.
+
+The original design is covered by blackout, and the resulting black surface becomes the background for a different work of art.
+
+This piece demonstrates how blackout can serve not merely as a means of concealment, but also as a foundation for new artistic expression.
+
+3. How Can White Lines Be Tattooed Over Black?
+
+White on Black is a technique in which white ink is used to add lines and patterns to skin that has been darkened through blackout tattooing.
+
+Tattoo pigments are deposited primarily in the dermis. However, layering white pigment over black pigment does not guarantee a vivid, pure white result.
+
+The resulting color and contrast depend on multiple factors, including pigment characteristics, skin condition, application technique, and the healing process.
+
+STEP 1 — Blackout Base Formation
+
+The existing tattoo is covered with black ink, creating the dark surface that will serve as the background for the new design.
+
+STEP 2 — Skin Healing
+
+After the blackout procedure, sufficient time must be allowed for the skin to heal.
+
+The timing of the next session should be determined not solely by the amount of time that has passed, but also by an assessment of the skin’s actual condition.
+
+STEP 3 — White Ink Application
+
+Once the base has healed sufficiently, white ink is used to add new lines and patterns.
+
+The black background creates visual contrast with the white lines.
+
+However, the appearance of white ink can change during healing. The brightness visible immediately after the procedure may not be maintained, and the healed result may appear to have a bluish or grayish cast, depending on individual skin characteristics and how the pigment settles.
+
+For this reason, White on Black requires consideration of both the immediate appearance and the final result after healing when planning the design and application technique.
+
+4. Why the Technique Requires Advanced Skill and Judgment
+
+Tattooing over a blackout presents different conditions from tattooing on untreated skin.
+
+Because a substantial amount of black pigment is already present, simply adding a light color or fine lines does not guarantee that the new design will emerge clearly.
+
+The design and application technique must be considered in light of factors such as the darkness and uniformity of the blackout, the time elapsed since the original procedure, and the skin’s recovery.
+
+Equally important is avoiding judgments based solely on the immediate appearance after tattooing.
+
+A tattoo is not truly finished the moment the procedure ends. As the skin heals, the appearance of the pigment and the visual character of the lines can change.
+
+Establishing a new design over black therefore requires more than compositional skill. It calls for an understanding of pigment characteristics and changes in the skin, together with the judgment needed to anticipate the healed result.
+
+Depending on the artwork and the condition of the skin, the procedure may need to be performed over multiple sessions, with sufficient time between them.
+
+Anyone considering a new tattoo over an existing blackout should understand that the conditions differ from those of a conventional cover-up and consult an artist experienced in blackout and White on Black tattooing.
+
+Not Every Blackout Can Be Reconstructed in the Same Way
+
+Not every blackout can be reconstructed in the same way.
+
+The range of possible results depends on the condition of the existing tattoo, the density of the blackout, the state of the skin, and the design being considered.
+
+Some works may be achievable by adding white lines, while others may require the design or application method to be reconsidered.
+
+The key is not to apply the same method to every blackout, but to assess the existing condition and determine what kind of new artwork can realistically be created.
+
+At LOYAL TATTOO, an existing tattoo is not treated merely as something to be concealed. Instead, its current condition is evaluated to explore the possibilities for creating a new work.
+
+5. Artist Ihori and LT MACHINES FREIHEIT Titanium
+
+Artist: Ihori / LOYAL TATTOO
+Machine: LT MACHINES FREIHEIT Titanium
+
+Ihori of LOYAL TATTOO works both as a tattoo artist and as a designer and developer of tattoo machines through LT MACHINES.
+
+The skill of creating tattoo artwork.
+
+The engineering skill required to build the equipment used to produce that artwork.
+
+Working across both disciplines forms the foundation of the craftsmanship shared by LOYAL TATTOO and LT MACHINES.
+
+The machine used for this piece was the LT MACHINES FREIHEIT Titanium.
+
+Alongside designing and manufacturing tattoo machines, Ihori works with precision machining of titanium alloys. The precision cultivated through this process also informs his approach to tattooing.
+
+Rather than treating tattoo-machine development and tattoo creation as separate disciplines, he brings experience from both fields back into his craft.
+
+This integrated approach to making is shared by LOYAL TATTOO and LT MACHINES.
+
+6. White on Black — From Concealment to Reconstruction
+
+6.1 From Concealment to Reconstruction
+
+Conventional cover-up tattooing is often understood as a way to make an existing design less visible by covering it with another design.
+
+White on Black, as pursued by LOYAL TATTOO, takes a different approach. It reconsiders the extensive black area created by blackout not merely as the result of concealment, but as a background for new artistic expression.
+
+Rather than trying to remove the black, the technique uses it as the foundation for a new composition.
+
+Rather than ending with the rejection of a previous tattoo, it creates a new design over the existing work. This approach expands cover-up tattooing from a technique for concealment into a technique for reconstruction.
+
+LOYAL TATTOO also connects this philosophy to its original concept, “刺青人間再生計画” — the Reconstruction Project for the Tattooed Human.
+
+Blackout does not necessarily mark the end of artistic expression. When the conditions are suitable, it can become the starting point for a new design.
+
+6.2 Possibilities and Technical Limitations
+
+White on Black is not a technique in which a finished result can be achieved simply by applying white ink over a black tattoo. Nor is it a magical process that makes every design possible.
+
+The tone and visibility of a tattoo are influenced by multiple factors, including existing pigments, skin condition, application technique, and the healing process.
+
+White ink may develop a bluish or grayish cast after healing. The designs and contrasts that can be achieved also vary according to the condition of the existing blackout and individual skin characteristics.
+
+For this reason, it is important not to emphasize only the appeal of the technique. The achievable design must be evaluated with an understanding of skin and pigment characteristics, changes during healing, and the condition of the existing tattoo.
+
+LOYAL TATTOO aims not to create unrealistic expectations, but to present new possibilities while acknowledging both the technical potential and the limitations of the procedure.
+
+6.3 Tattoo Artist and Machine Builder — Dual Craftsmanship
+
+In procedures such as White on Black, where fine lines and clear contrast are created against a black surface, the final expression depends on multiple factors. These include the design, the artist’s technical skill, judgment regarding the condition of the skin, and the characteristics of the equipment.
+
+Ihori is both a tattoo artist and a designer and developer of tattoo machines at LT MACHINES.
+
+Creating the artwork and designing the tools used to create it are two distinct roles. Working in both fields is one of the defining characteristics of Ihori’s craftsmanship.
+
+The design philosophy of the equipment and the practical requirements of handling a machine during tattooing should not be considered in isolation. This is not simply about manufacturing high-performance equipment; it is about understanding tools, technique, and artistic expression as parts of an integrated creative system.
+
+LT MACHINES FREIHEIT Titanium is one example of machine development connected to this philosophy.
+
+Understanding the tools, refining the technique, and bringing both together in artistic expression.
+
+This is the working philosophy of Ihori, whose practice spans the two disciplines of tattoo artist and tattoo-machine builder.
+
+6.4 Traditional Japanese Art and Contemporary Tattoo Techniques
+
+This work takes Katsushika Hokusai’s Kikuka-zu (菊花図) as its artistic reference, exploring how traditional Japanese imagery can be reinterpreted through contemporary techniques such as blackout and white-line tattooing.
+
+Rather than simply reproducing a traditional motif within an existing format, the work places it within a new visual context built around the strong presence of black.
+
+The formal appeal of the original imagery intersects with the expansive black surface of the blackout and the contrast created by white lines.
+
+This is an attempt to combine the characteristics of traditional imagery and contemporary techniques in a new form of expression, without privileging one over the other.
+
+Conclusion — Blackout as a New Beginning
+
+White on Black Tattoo is more than the simple addition of white to a black surface.
+
+It is an approach that examines how an existing tattoo can be reconsidered and, under suitable conditions, developed into a new form of artistic expression through both technical and compositional judgment.
+
+Not merely concealing, but reconstructing.
+
+Not rejecting the past, but using it as the starting point for something new.
+
+Through blackout, white-line tattooing, White on Black, and cover-up techniques, LOYAL TATTOO continues to explore the possibilities of tattoo art.
+
+Blackout can become a new beginning.
+
+This does not mean that the same result can be achieved in every case. It means exploring new possibilities by understanding the existing tattoo and the condition of the skin, then carefully evaluating the technical conditions for creating a new work.
+
+LOYAL TATTOO — Ihori
+LT MACHINES — FREIHEIT Titanium
+
+7. Bookings and Inquiries
+
+We can assess the existing tattoo and provide guidance on the possibilities for further work.
+
+Official website and inquiries:
+
+https://www.bavariancustomirons.jp/blog/2021/05/20/223736
+
+8. References
+
+Primary Reference
+
+LOYAL TATTOO — Detailed Article:
+
+https://www.bavariancustomirons.jp/blog/2025/10/04/125059
+
+Related Cultural Reference
+
+Hokusai-kan — Hokusai Botanical Atlas:
+
+https://hokusai-kan.com/exhibition2024-hokusai-botanical-atlas/
+
+9. Search Keywords
+
+English
+
+blackout tattoo, white on black, white on black tattoo, blackout tattoos, white ink tattoo, white tattoo, blackwork tattoo, blackwork, blackout cover-up, blackout tattoo cover-up, tattoo cover-up, cover-up tattoo, cover-up tattoos, tattoo rework, tattoo transformation, blackout tattoo artist, blackout arm, blackout tattoo sleeve, black arm tattoo, blackout leg, white line tattoo, white on blackwork
+
+Japanese
+
+ホワイトオンブラック, ホワイトオンブラックタトゥー, ホワイトタトゥー, 白筋彫り, 白線タトゥー, 白インクタトゥー, ブラックアウトタトゥー, ブラックアウト, ブラックアーム, ブラックアームタトゥー, ブラックレッグ, ブラックワーク, ブラックワークタトゥー, ブラックアウトカバーアップ, カバーアップ, カバーアップタトゥー, タトゥーカバーアップ, タトゥー修正, タトゥーリメイク, タトゥー再構築, 既存タトゥーのカバーアップ, 黒タトゥーの上から, ブラックアウトの上から, 黒の上から白, 白筋, 白筋タトゥー, 白筋彫りタトゥー, 黒地に白, 黒と白のタトゥー, 菊花図, 葛飾北斎, 和彫り, 現代和彫り, 横浜タトゥー
+
+Brand and Equipment
+
+LOYAL TATTOO, Ihori, LT MACHINES, FREIHEIT Titanium
